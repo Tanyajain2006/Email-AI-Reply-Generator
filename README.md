@@ -26,15 +26,14 @@ This project is a powerful **Chrome extension** that integrates directly into th
 
 ## 🛠️ Technology Stack
 
-| **Category**         | **Technology/Tool**                       |
+| **Category**          | **Technology/Tool**                       |
 |-----------------------|-------------------------------------------|
 | **Frontend**          | React.js, JavaScript, HTML5, CSS3         |
 | **Backend**           | Java, SpringBoot Framework                |
 | **AI Service**        | Google Gemini API                         |
-| **Database**          | MySQL                                     |
 | **Development Tools** | VS Code, IntelliJ, Postman, Git           |
 | **Build Tools**       | Webpack, Node.js, Maven                   |
-| **Deployment**        | AWS EC2                                   |
+| **API Testing**       | Postman                                   |
 
 ---
 
