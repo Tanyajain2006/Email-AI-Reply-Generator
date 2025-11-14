@@ -1,6 +1,7 @@
 # 💌 AI-Powered Email Reply Generator for Gmail
 
 This project is a powerful **Chrome extension** that integrates directly into the **Gmail interface** to provide intelligent, context-aware reply suggestions. By leveraging **Google's Gemini API**, this tool helps users manage email overload by reducing the time and cognitive effort required to compose thoughtful responses.
+
 <img width="1304" height="637" alt="image" src="https://github.com/user-attachments/assets/866dcabe-af4d-4667-9b08-7696c9373182" />
 
 ---
@@ -44,6 +45,7 @@ The application follows a **three-tier architecture** to ensure a clear separati
 ### 🧩 Frontend (Chrome Extension)
 A **React.js** application that runs in the user's browser.  
 Responsible for rendering the UI within Gmail, capturing user interactions, and communicating with the backend service.
+
 <img width="712" height="538" alt="image" src="https://github.com/user-attachments/assets/9349b2a7-3e12-4fb0-9919-ce278d75b14c" />
 
 ### ⚙️ Backend (SpringBoot Microservice)
